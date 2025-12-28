@@ -53,7 +53,9 @@
 
 
 ## Output:
-<img width="1037" height="551" alt="image" src="https://github.com/user-attachments/assets/92a28dcc-5c6e-4319-96ab-43ee1fd423e6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce996437-7ee6-458a-bc1a-9ddb99912918" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a18fbc1-450c-47e2-bccf-70355598184e" />
+
 
 
 
